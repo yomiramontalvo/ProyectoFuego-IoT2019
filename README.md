@@ -46,11 +46,23 @@ Dicho en palabras sencillas, aprenderás a:
 
 * Los integrantes del equipo podrán forkear o clonar el proyecto para poder realizar el Planning y el Readme si lo requieren, de otra forma, se puede usar Drive u otros repositorios por equipo.
 
+* Toda la información recolectada por equipo se deberá documentar en una Bitácora que está en la Carpeta de Drive "PROYECTOFUEGO/IoT/MATERIAL/BITACORA" o "PROYECTOFUEGO/IA/MATERIAL/BITACORA".
+
+* Toda la información recolectada como PPTS, PDF, PAPERS, RESÚMENES, deberán colocarse en una carpeta adicional en el Drive, según su área.
+
+* Cada reunión deberán tomarse fotos por equipo, para la exposición.
+
 * Antes de comenzar con los Sprint, se debe realizar el planning por equipos y la organización adecuada.No caigan en el error de separar las tareas en función a lo que ya sabes hacer o con lo que te sientas más cómoda. Recuerden que acá están para aprender, no para "entregar" proyectos solamente.
 
 * Desarrollar una historia de usuario hasta completarla, es decir, que se cumplen todos sus criterios de aceptación + todas su definición de terminado.
 
-* El tiempo sugerido para presentar este proyecto es de aproximadamente 2 semanas (3 sprints):
+* El tiempo sugerido para presentar este proyecto es de aproximadamente 2 semanas (3 sprints) por equipo.
+
+## **Requerimientos del proyecto**
+
+Son dos áreas en las que se especializarán. Por cada una encontrarás las historias de usuario a implementar:
+
+### **Internet de las Cosas**
 
 | Tiempo      | Sprint   | Historia de Usuario      |
 | :---------- | :------: | -----------------------: |
@@ -64,6 +76,17 @@ Dicho en palabras sencillas, aprenderás a:
 | **11/08-15/08** | 3       | **HU 4:** Yo como usuario de "PF" quiero poder conocer la documentación(todo lo que se investiga, utiliza, etc) que se utilizó para realizar la bitacora del proyecto general .| 
 |  | 3         |**HU 7:** Yo como usuario de "PF" quiero poder conocer la documentación(todo lo que se investiga, utiliza, etc) que se utilizó para realizar la bitacora del proyecto general.|
 
+### **Inteligencia Artificial**
+
+
+
+### **Planificación( Agile - SCRUM )**
+
+En este proyecto te hemos dado las historias de usuario. Éstas representan los requerimientos y funcionalidades que desea el usuario final,. Para su proceso de planificación, deberán definir colaborativamente los criterios de aceptación y definiciones de terminado específicos que permitan considerar a la historia de usuario desarrollada como válida y aceptada por el usuario final.
+
+Para realizar el seguimiento del desarrollo de las historias de usuario podrán utilizar issues y project en Github o el Drive donde podrán realizar el Planning. No dudes en solicitar ayuda.
+
+
 *Recuerda que en cada sprint deberás realizar las siguientes actividades:*
 
      * Definir colaborativamente las definiciones de terminado y criterios de aceptación por cada historia de usuario a desarrollar en cada sprint.
@@ -72,4 +95,14 @@ Dicho en palabras sencillas, aprenderás a:
      * Demo.
      * Retrospectiva.
 
-     
+## **Contenido de Referencia**
+
+* [Historias de usuario](https://www.youtube.com/watch?v=ky6wFiF5vMk&t=344s "titulo")
+
+* [Cómo dividir "HU"](https://www.youtube.com/watch?v=Ueq786iZ30I&t=341s "titulo")
+
+* [Definiciones de terminado](https://www.scrum.org/resources/blog/definicion-de-terminado-done "titulo")
+
+* [Criterios de aceptación](https://pabloquilca.com/criterios-de-aceptacion/ "titulo")
+
+* [Github Planning](https://www.youtube.com/watch?v=RXEy6CFu9Hk "titulo")
